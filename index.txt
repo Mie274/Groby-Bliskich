@@ -1,9 +1,9 @@
 <html> 
 <a href="DJI_0489.JPG"><b> Cmentarz Ostrów </b></a><br>
 <br>
-<a href="DJI_0488.JPG"><b>1 Cmentarz </b></a><br>
+<a href="DJI_0488.JPG"><b>1</b></a><br>
 <br>
-<a href="DJI_0487.JPG"><b>2 Cmentarz </b></a><br>
+<a href="DJI_0487.JPG"><b>2</b></a><br>
 <br>
 <body> <b> Rodzina Paluszków Groby Bliskich </b></body><br>
 <br>
@@ -13,7 +13,16 @@
 <br>
 <a href="DSCF2156.JPG"><b>Ś.P.Paluszek Teofil <br> Przeżył 46 Lat ( Tato Stanisława Paluszek ) Cmentarz Ostrów  </b></a><br>
 <br>
-<a href="Ciocia z Przemyśla.jpeg"><b> Ś.P.Paluszek Katarzyna <br> ur.10.09.1910 zm.10.05.1982 <br> ( Siostra Teofila Paluszek )<br> Ś.P.Borek Władysława <br> ur.10.08.1931 zm.07.05.2019 <br> ( Curka Katarzyny Paluszek ) Cmentarz w Przemyślu </b></a><br>
+<a href="Ciocia z Przemyśla.jpeg"><b> Ś.P.Paluszek Katarzyna <br> ur.10.09.1910 zm.10.05.1982 <br> ( Siostra Teofila Paluszek )<br> Ś.P.Borek Władysława <br> ur.10.08.1931 zm.07.05.2019 <br> ( Córka Katarzyny Paluszek ) Cmentarz w Przemyślu </b></a><br>
+<br>
+<a href="Ciocia 1.jpeg"><b> Władysława Borek </b></a><br>
+<a href="Ciocia 2.jpeg"><b> Władasława Borek </b></a><br>
+<br>
+<b> Ś.P.Godos Władysław <br>ur.27.02.1925 zm.9.08.2001 <br> ( Mąż Władysławy Borek )</b><br>
+<br>
+<b> Ś.P.Michalczak Adam <br> ur.02.05.1983 zm.3.12.2020 <br> ( Brat Marcin Godos wnuk Władysława i Władysławy )</b><br>
+<br>
+<b> Ś.P. Sikorska Sylwia <br> ur.26.04.1989 zm.09.05.1989 <br> ( Siostra Marcin Godos )</b><br>
 <br>
 <a href="DJI_0470.JPG"><b> Kościuł Parafia Gać </b></a><br>
 <br> 
@@ -29,17 +38,17 @@
 <br>
 <body> <b> Rodzina Zająców Groby Bliskich </b></body><br>
 <br>
-<a href="DSCF2153.JPG"> <b> Ś.P. Zając Stanisław <br> ur.19.07.1927 zm.19.04.2018 <br> Ś.P. Zając Stanisława z d. Dzień <br> ur.23.08.1925 zm.08.06.2018  <br> ( Curka Mari Dzień ) Cmentarz Gać </b></a> <br>
+<a href="DSCF2153.JPG"> <b> Ś.P. Zając Stanisław <br> ur.19.07.1927 zm.19.04.2018 <br> Ś.P. Zając Stanisława z d. Dzień <br> ur.23.08.1925 zm.08.06.2018  <br> ( Córka Mari Dzień ) Cmentarz Gać </b></a> <br>
 <br>
 <a href="DSCF2151.JPG"><b> Ś.P.Dzień Maria <br> ur.30.12.1881 zm.30.03.1964 <br> ( Mąż zmarł we Lwowie walczył na Montte Casino ) Cmentarz Gać</b></a><br>
 <br>
 <a href="DSCF2149.JPG"><b> Ś.P. Polak Francisza <br> Przeżyła 60 lat <br> ( Siostra Mari Dzień ) Cmentarz Gać </b></a><br>
 <br>
-<a href="DSCF2146.JPG"><b> Ś.P. Dzień Waleria <br> Przeżyła 15 lat <br> ( Curka Mari Dzień ) Cmentarz Gać </b></a><br>
+<a href="DSCF2146.JPG"><b> Ś.P. Dzień Waleria <br> Przeżyła 15 lat <br> ( Córka Mari Dzień ) Cmentarz Gać </b></a><br>
 <br>
 <body> <b> Rodzina Pacułów Groby Bliskich </b></body><br>
 <br>
-<a href="DSCF2152.JPG"> <b> Ś.P.Pacuła Jan <br> ur.05.08.1988 zm.11.04.1980 <br> Ś.P. Pacuła Aniela z d. Dzień <br> ur.27.10.1902 zm.14.07.1983 <br> ( Curka Mari Dzień ) <br> Ś.P. Stańko Genowefa z d. Paluszek <br> ur.22.11.1957 zm.01.04.2021 <br> ( Curka Mari i Stanisława Paluszek ) Cmentarz Gać </b></a><br>
+<a href="DSCF2152.JPG"> <b> Ś.P.Pacuła Jan <br> ur.05.08.1988 zm.11.04.1980 <br> Ś.P. Pacuła Aniela z d. Dzień <br> ur.27.10.1902 zm.14.07.1983 <br> ( Córka Mari Dzień ) <br> Ś.P. Stańko Genowefa z d. Paluszek <br> ur.22.11.1957 zm.01.04.2021 <br> ( Córka Mari i Stanisława Paluszek ) Cmentarz Gać </b></a><br>
 <br>
 <a href="grób cioci z niemiec.jpeg"><b>Ś.P.Klink Teresa z d.Drozd <br> ur.03.10.1959 zm.11.09.2020 </b></a><br>
 <br>
@@ -49,23 +58,23 @@
 <br>
 <a href="DSCF2154.JPG"> <b> Ś.P.Wąsacz Jan <br> ur.19.11.1957 zm.05.11.2007 <br> ( Syn Stanisława i Krystyny Wąsacz ) Cmentarz Gać <br> Ś.P. Maria Stącel </b></a><br>
 <br>
-<a href="DSCF2160.JPG"><b> Ś.P.Wąsacz Łucja <br> ur.19.03.2013 zm.08.02.2016  <br> ( Curka Witolda i Agaty Wąsacz ) Cmentarz Gać </b></a> <br>
+<a href="DSCF2160.JPG"><b> Ś.P.Wąsacz Łucja <br> ur.19.03.2013 zm.08.02.2016  <br> ( Córka Witolda i Agaty Wąsacz ) Cmentarz Gać </b></a> <br>
 <br>
-<a href="DSCF2161.JPG"><b> Ś.P.Wąsacz Stanisław <br>  ur.26.07.1933 zm.03.03.2002 <br> ( Syn Mari i Floriana Wąsacz ) <br> Ś.P. Wąsacz Krystyna z d. Cużytek <br> ur.31.08.1938 zm.06.02.2011 <br> ( Curka Genowefy Cużytek i Walety Domka ) <br> Wąsacz Marysia <br> ur.20.07.1956 zm.16.08.1956 <br> ( Curka Stanisława i Krystyny Wąsacz ) Cmentarz Nowosielce</b></a><br>
+<a href="DSCF2161.JPG"><b> Ś.P.Wąsacz Stanisław <br>  ur.26.07.1933 zm.03.03.2002 <br> ( Syn Mari i Floriana Wąsacz ) <br> Ś.P. Wąsacz Krystyna z d. Cużytek <br> ur.31.08.1938 zm.06.02.2011 <br> ( Córka Genowefy Cużytek i Walety Domka ) <br> Wąsacz Marysia <br> ur.20.07.1956 zm.16.08.1956 <br> ( Córka Stanisława i Krystyny Wąsacz ) Cmentarz Nowosielce</b></a><br>
 <br>
 <body> <b> Rodzina Joniec i Sum Groby Bliskich </b></body>
 <br>
 <a href="DJI_0501.JPG"><b> Cmentarz Chodaczów </b> </a><br>
 <br>
-<a href="DJI_0502.JPG"><b>1 Cmentarz </b></a><br>
+<a href="DJI_0502.JPG"><b>1</b></a><br>
 <br>
-<a href="DJI_0503.JPG"><b>2 Cmentarz </b></a><br>
+<a href="DJI_0503.JPG"><b>2</b></a><br>
 <br>
-<a href="DJI_0504.JPG"><b>3 Cmenatrz </b></a><br>
+<a href="DJI_0504.JPG"><b>3</b></a><br>
 <br>
-<a href="DJI_0505.JPG"><b>4 Cmentarz </b></a><br>
+<a href="DJI_0505.JPG"><b>4</b></a><br>
 <br>
-<a href="DJI_0506.JPG"><b>5 Cmentarz </b></a><br>
+<a href="DJI_0506.JPG"><b>5</b></a><br>
 <br> 
 <a href="DSCF2163.JPG"><b> Ś.P.Sum Agnieszka <br>  Przeżyła lat 34 zm.18.08.193 <br> Cmentarz Jarosław </b></a> <br>
 <br>
@@ -76,8 +85,11 @@
 <a href="DSCF2284.JPG"><b> Ś.P.Joniec Stanisława z d.Sum <br> ur.28.05.1929 zm.23.03.2013 <br> Ś.P. Joniec Karol <br> ur.16.03.1924 zm.16.12.1987 <br> ( Syn Katarzyny i Jakuba Joniec ) <br> Ś.P.Joniec Katarzyna z d.Strug <br> ur.05.01.1898 zm.10.02.1980 <br> Ś.P.Joniec Jakub <br> ur.25.07.1902 zm.13.09.1951 <br> Cmentarz Chodaczów </b></a><br>
 <br>
 <a href="DSCF2239.JPG"><b> Ś.P.Sum Katarzyna <br> ur.24.11.1914 zm.03.11.2007 <br> Cmentarz Chodaczów </b></a><br>
-
-
+<br> 
+<a href="Boroń Gniewczyna.jpeg"><b> Ś.P. Boroń Michał ,br> ur.08.08.1914 zm.13.03.1988 <br> Ś.P. Boroń Anna <br> ur.07.06.1922 zm.14.08.2012 <br> ( Rodzice Józef , Kazimierz , Stanisław , Maria )<br> Ś.P. Boroń Józef <br> ur.25.03.1948 zm.03.01.2009 <br> (Syn MIchała i Anny Boroń ) </b></a><br>
+<br>
+<a href="sum Przemyśl.jpg"><b> Ś.P. Sum Andzej <br> ur.09.03.1927 zm.17.03.2004 <br> Ś.P.Sum Janina <br> ur.01.02.1935 zm.19.03.2021 </b></a><br>
+<br>
 
 
 </html>
